@@ -10,6 +10,9 @@ Web приложение по управлению собственным тур
 
 Для запуска проекта необходимо:
 в файле application.properties вместо {название бд} указать название вашей БД (например, touristguide), указать {ваш логин} и {ваш пароль}. Создание БД - в файле db. Достаточно только создать БД (CREATE SCHEMA `touristguide` ;), добавление городов и информации о них организовано через REST WebService.
+
 bot:
+
 username: @ReslivTourist_bot
+
 token: 1950538374:AAEG8cDVd0CQYKAy8q22i0VfQ62tsXQOqXc
